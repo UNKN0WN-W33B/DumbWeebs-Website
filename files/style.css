@@ -5,6 +5,31 @@ html {
     -webkit-text-size-adjust: 100%;
 }
 
+/* Style the topnav links */
+
+.topnav {
+	float: center;
+	width: 100%;
+	padding: 14px
+	
+}
+.topnav a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0px 5px;
+  text-decoration: none;
+  font-size:34px;
+  display: inline-block;
+  
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  color: white;
+  float: center
+}
 body {
     margin: 0;
 }
